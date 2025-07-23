@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mem Robin Çen</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently sharpening my skills in **Spring Boot** for robust backend development
+- ⚛️ I'm enhancing my frontend expertise with **React**, focusing on building dynamic and responsive user interfaces
+- 🔧 Actively integrating **RESTful APIs** with Spring Boot and React for full-stack applications
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
