@@ -33,20 +33,6 @@
   </a>
 </p>
 
-<div align="center" style="
-  display: flex; 
-  flex-wrap: wrap; 
-  justify-content: center; 
-  gap: 10px;
-">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RobinTR&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
-    style="flex: 1 1 300px; max-width: 500px;"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=RobinTR&theme=great-gatsby&hide_border=true" 
-    alt="GitHub Streak" 
-    style="flex: 1 1 300px; max-width: 500px;"
-  />
-</div>
+| ![Stats](https://github-readme-stats.vercel.app/api?username=RobinTR&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://streak-stats.demolab.com?user=RobinTR&theme=great-gatsby&hide_border=true) |
+| --- | --- |
+
