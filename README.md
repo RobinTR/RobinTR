@@ -33,3 +33,5 @@
   </a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=RobinTR&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" alt="RobinTR's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=RobinTR&theme=great-gatsby&hide_border=true" alt="RobinTR's GitHub Stats" />
