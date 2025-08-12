@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mem Robin Çen</h1>
-<h3 align="center">A passionate Software Developer from Türkiye</h3>
+<h1>Hi 👋, I'm Mem Robin Çen</h1>
+<h3>A passionate Software Developer from Türkiye</h3>
 
 - 🌱 I’m currently sharpening my skills in **Spring Boot** for robust backend development
 - ⚛️ I'm enhancing my frontend expertise with **React**, focusing on building dynamic and responsive user interfaces
 - 🔧 Actively integrating **RESTful APIs** with Spring Boot and React for full-stack applications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
@@ -33,12 +33,20 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinTR&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" 
-       alt="RobinTR's GitHub Stats" 
-       width="50%" />
-  <img src="https://streak-stats.demolab.com?user=RobinTR&theme=great-gatsby&hide_border=true" 
-       alt="RobinTR's GitHub Streak" 
-       width="50%" />
+<div align="center" style="
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  gap: 10px;
+">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RobinTR&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+    style="flex: 1 1 300px; max-width: 500px;"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=RobinTR&theme=great-gatsby&hide_border=true" 
+    alt="GitHub Streak" 
+    style="flex: 1 1 300px; max-width: 500px;"
+  />
 </div>
-
